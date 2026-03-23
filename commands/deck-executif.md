@@ -18,8 +18,8 @@ Le CHU est au service des **patients et intervenants** (centre de la boussole), 
 ### Qui décide
 - **CSTN** (Comité Stratégique en Transformation Numérique) — décisions d'orientation
 - **CTTN** (Comité Tactique) — suivi opérationnel
-- **PDG** : Martin Beaumont
-- **DPVDTN** : Philippe Lachapelle (directeur)
+- **PDG** — direction générale
+- **DPVDTN** — direction porteuse de la transformation numérique
 
 ### Acronymes fréquents
 | Sigle | Signification |

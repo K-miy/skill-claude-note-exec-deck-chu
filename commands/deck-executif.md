@@ -1,8 +1,10 @@
 # Deck exécutif CHU — méthode Johanne Martel
 
 Produis deux livrables complémentaires pour une présentation exécutive au CHU de Québec :
-1. **Note executive** — fiche synthèse 1 page (recto-verso)
-2. **Deck exécutif** — structure slide par slide
+1. **Note executive** — fiche synthèse 1 page, envoyée *avant* la présentation
+2. **Deck exécutif** — structure slide par slide, présenté en réunion
+
+La note executive n'est pas un résumé après coup — c'est le prérequis. Les participants arrivent préparés, capables de questionner. Le deck anime la discussion, il ne répète pas la note.
 
 **Sujet / contexte :** $ARGUMENTS
 
@@ -55,19 +57,31 @@ Utiliser `LOGO_CHU_couleurs.svg` si le fond est clair.
 
 ---
 
-## Phase 1 — Comprendre avant de produire
+## Phase 1 — Grille de préparation (avant d'écrire quoi que ce soit)
 
-Pose ces questions si l'information manque :
-- Quel est le problème réel à résoudre (pas le sujet — le problème) ?
-- Qui décide dans la salle et qu'est-ce qu'on leur demande de faire ?
-- Quels sont les 2-3 faits ou chiffres les plus solides disponibles ?
+Réponds à ces questions avant de produire. Si l'information manque, pose-les à l'utilisateur.
+
+**Sur le sujet :**
+- C'est quoi le problème réel à résoudre (pas le sujet — le problème) ?
+- C'est quoi les 3 messages clés à passer ?
+- C'est quoi le changement concret qu'on veut créer ?
 - Y a-t-il une contrainte, une deadline, une pression externe à nommer ?
 
-Si le contexte fourni répond à ces questions, passe directement à la production.
+**Sur l'audience :**
+- Qui décide dans la salle ?
+- Qu'est-ce qu'on leur demande de faire (décision, approbation, prise de connaissance) ?
+- Quel est leur niveau de familiarité avec le sujet ?
+
+**Type de présentation au CHU — adapter le rythme :**
+- **Comité (course à relais)** — le plus fréquent : on demande aux gens de décider et agir. Deck court, décisions claires, discussion attendue.
+- **Sprint** — présentation d'information courte : 1 message, 1 visuel fort, pas de décision formelle.
+- ~~Marathon (formation)~~ — hors scope de ce skill.
 
 ---
 
 ## Phase 2 — Note executive (fiche synthèse 1 page)
+
+Envoyée *avant* la présentation pour permettre aux participants d'arriver préparés.
 
 ### Structure obligatoire
 
@@ -98,16 +112,18 @@ Si le contexte fourni répond à ces questions, passe directement à la producti
 
 ## Phase 3 — Deck exécutif (slide par slide)
 
+Le deck soutient le présentateur — il ne le remplace pas. Si on peut lire la slide en silence sans avoir besoin du présentateur, elle est trop chargée.
+
 ### Arc narratif (méthode Johanne Martel)
 
 ```
-1. OUVERTURE       → Capter l'attention : stat, image forte, ou anecdote
+1. OUVERTURE       → Capter l'attention : stat frappante, image forte, ou anecdote
 2. POURQUOI        → Le problème ou l'impératif (pourquoi maintenant ?)
 3. SITUATION       → Ce qui se passe aujourd'hui
 4. PROPOSITION     → Ce qu'on propose — 1 visuel ou 1 phrase
 5. DÉVELOPPEMENT   → 1 à 3 slides, 1 concept chacune
 6. DÉCISIONS       → Actions demandées, numérotées, verbes actifs
-7. CLÔTURE         → Tagline courte + image émotionnelle
+7. CLÔTURE         → Résumé des 3 points clés + call to action + inspirer le changement
 ```
 
 ### Format de chaque slide
@@ -121,9 +137,11 @@ Si le contexte fourni répond à ces questions, passe directement à la producti
 **Visuel suggéré** : [Description précise — image, diagramme, icône]
 
 **Contenu affiché** :
-[Mots-clés seulement — pas de phrases]
+[Mots-clés seulement — pas de phrases, alignés à gauche]
 [Maximum 4 éléments]
 [Indiquer quels mots sont en TURQUOISE ou CORAIL]
+
+**Animation** : [Décrire l'ordre d'apparition des éléments — chaque élément apparaît au moment où le présentateur en parle, pas avant]
 
 **Notes du présentateur** : [Ce que le présentateur dit — pas répété sur la slide]
 ---
@@ -134,16 +152,18 @@ Si le contexte fourni répond à ces questions, passe directement à la producti
 - Barre turquoise fine (#00ABC4) en haut à gauche — toutes les slides
 - `LOGO_CHU_Blanc.svg` en bas à droite — toutes les slides
 - Jamais de numéro de page visible
-- Images : style aquarelle réaliste, chaleureux, ancrées dans le sujet — jamais décoratives
+- Texte **aligné à gauche** — jamais centré (le cerveau lit gauche à droite)
+- Images : style aquarelle réaliste, chaleureux, directement liées au message — jamais décoratives
 - Cadre ovale ou rectangle arrondi pour les images partielles
+- Laisser des marges — ne pas remplir toute la slide
 
 ### Règles cognitives (Johanne Martel)
 
-- **3 secondes** pour comprendre une slide — sinon c'est trop chargé
-- **3-4 éléments maximum** par slide
+- **3 secondes** pour capter visuellement le message essentiel — sinon c'est trop chargé
+- **3-4 éléments maximum** par slide (limite de la mémoire de travail)
 - **1 concept par slide** — deux idées = deux slides
+- **Double codage** : l'image et les mots se renforcent mutuellement — texte seul retenu à 10%, texte + visuel ancré à 65%
 - Jamais de paragraphe sur une slide
-- Si on peut lire la slide sans le présentateur, elle est trop chargée
 
 ### Ce qu'on ne fait pas
 
@@ -151,14 +171,15 @@ Si le contexte fourni répond à ces questions, passe directement à la producti
 - Pas de frameworks génériques sans contenu réel
 - Pas de projection au-delà de ce qui est documenté
 - Pas de stat sans source connue
+- Pas de numéros de page, pas d'éléments décoratifs superflus
 
 ---
 
 ## Livraison
 
 Dans cet ordre :
-1. Note executive complète (markdown)
-2. Deck slide par slide (avec notes du présentateur)
+1. Note executive complète (markdown) — à envoyer avant la présentation
+2. Deck slide par slide (avec animations et notes du présentateur)
 3. Liste des lacunes : informations manquantes qui affaiblissent les livrables
 
 Si le sujet touche à l'IA au CHU, ajouter si pertinent :

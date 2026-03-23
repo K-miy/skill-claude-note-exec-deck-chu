@@ -16,8 +16,9 @@ Produis deux livrables complémentaires pour une présentation exécutive au CHU
 Le CHU est au service des **patients et intervenants** (centre de la boussole), équilibré par quatre ressources : humaines (N), technologiques (E), financières (S), immobilières (O). Toute présentation doit ancrer sa proposition dans cet axe — pas dans la technologie pour la technologie.
 
 ### Qui décide
-- **CSTN** (Comité Stratégique en Transformation Numérique) — décisions d'orientation
-- **CTTN** (Comité Tactique) — suivi opérationnel
+- **CSTN** (Comité Stratégique en Transformation Numérique) — recommande au Comité de Direction pour approbation
+- **CTTN** (Comité Tactique en Transformation Numérique) — suivi tactique de la transformation numérique, aide à la rédaction des ORC
+- **COTN** (Comité Opérationnel en Transformation Numérique) — suivi opérationnel des ORC de la feuille de route
 - **PDG** — direction générale
 - **DPVDTN** — direction porteuse de la transformation numérique
 
@@ -37,6 +38,7 @@ Le CHU est au service des **patients et intervenants** (centre de la boussole), 
 | MCN | Ministère de la Cybersécurité et du Numérique |
 | IAG | Intelligence Artificielle Générative |
 | ORC | Objectifs et Résultats Clés (= OKR en français) |
+| COTN | Comité Opérationnel en Transformation Numérique — suivi ORC feuille de route |
 
 ### Palette visuelle
 | Couleur | Hex | Usage |

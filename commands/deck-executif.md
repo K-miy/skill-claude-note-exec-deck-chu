@@ -36,11 +36,11 @@ Le CHU est au service des **patients et intervenants** (centre de la boussole), 
 | DRF | Direction des Ressources Financières |
 | DRH | Direction des Ressources Humaines |
 | DRI | Direction des Ressources Informationnelles |
+| PEPAC | Planification, Expertise Projet et Amélioration Continue |
 | SQ | Santé Québec |
 | MCN | Ministère de la Cybersécurité et du Numérique |
 | IAG | Intelligence Artificielle Générative |
 | ORC | Objectifs et Résultats Clés (= OKR en français) |
-| COTN | Comité Opérationnel en Transformation Numérique — suivi ORC feuille de route |
 
 ### Palette visuelle
 | Couleur | Hex | Usage |
